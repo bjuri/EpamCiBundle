@@ -26,7 +26,7 @@
     ],
     "require": {
         "symfony/symfony": "~2.3",
-        "sensiolabs/security-checker": "1.*"
+        "sensiolabs/security-checker": "1.*|2.*|3.*|4.*"
     },
     "suggest": {
         "doctrine/doctrine-migrations-bundle": "Required for Doctrine Migrations during build & deployment",
